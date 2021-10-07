@@ -21,4 +21,6 @@ This data set consists of financial transaction information that used AutoEncode
 
 ## House price detection 
 
+ file: "HousePriceDetection.ipynb"
+
 The data set consists of 154,424 images of houses, some of them features and prices are also identified. I predicted the price of a house based on available data and their image by CNN."# Neural-Networks-Project" 
